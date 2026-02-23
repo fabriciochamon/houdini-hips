@@ -53,7 +53,7 @@ Also, [YT video tutorial](https://www.youtube.com/watch?v=jm4mWT_WomE)
 
 Retro game visuals with pixelization, palette reduction, layered tv glitches (scanlines/vignete/crop/running bars/etc) and blinking fonts.
 
-![](./thumbs/arcade_cop.jpg)
+![](./thumbs/arcade_cop.gif)
 
 ## Misc
 [Pong game](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/pong_game.hiplc)
