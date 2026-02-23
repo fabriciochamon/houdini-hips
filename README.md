@@ -14,6 +14,13 @@ Fake volume light using VEX, with support for omni and spherical area ligths, sh
 
 ![](./thumbs/fake_volume_lights.gif)
 
+## CHOP
+[Audio visualizers](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/chop_audio_visualizers.zip)
+
+Assorted audio visualizers: spectrum, waveform, audio volume / channels, frequencies.
+
+![](./thumbs/chop_audio_visualizers.gif)
+
 ## DOP
 [Filament solver](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/filament_solver.hiplc)
 
