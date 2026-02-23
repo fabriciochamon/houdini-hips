@@ -21,6 +21,12 @@ Assorted audio visualizers: spectrum, waveform, audio volume / channels, frequen
 
 ![](./thumbs/chop_audio_visualizers.gif)
 
+[Midi piano score](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/midi_piano_score.zip)
+
+A piano score that animates to midi files, in the likes of guitar hero.
+
+![](./thumbs/midi_piano_score.jpg)
+
 ## DOP
 [Filament solver](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/filament_solver.hiplc)
 
