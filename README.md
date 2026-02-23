@@ -12,5 +12,6 @@ RBD based collisions, chop based keyboard controls, logic for item power-ups, sc
 [Filament solver](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/filament_solver.hiplc)
 
 Using the filament solver in DOPs for fake fluid looking ink sims.
+Also, [YT video tutorial](https://www.youtube.com/watch?v=jm4mWT_WomE)
 
 ![](./thumbs/filament_solver.jpg)
