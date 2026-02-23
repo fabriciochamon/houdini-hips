@@ -32,6 +32,6 @@ Also, [YT video tutorial](https://www.youtube.com/watch?v=jm4mWT_WomE)
 ## Misc
 [Pong game](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/pong_game.hiplc)
 
-RBD based collisions, chop based keyboard controls, logic for item power-ups, score, multi camera angles, game intro, etc. Backgrounds made in copernicus. A complete mini game.
+A complete mini game with RBD based collisions, chop keyboard controls, logic for item power-ups, score, multi camera angles, ball split after N hits, game intro, etc. Backgrounds made in copernicus.
 
-![](./thumbs/pong_game.jpg)
+![](./thumbs/pong_game.gif)
