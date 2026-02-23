@@ -12,7 +12,7 @@ Using NDC (normalized device coordinates) to build a custom HUD with extended vi
 
 Fake volume light using VEX, with support for omni and spherical area ligths, shadows, light samples (for area lights+shadows), shadow transparency, and a basic surface roughness model.
 
-![](./thumbs/custom_hud.jpg)
+![](./thumbs/fake_volume_lights.gif)
 
 ## DOP
 [Filament solver](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/filament_solver.hiplc)
