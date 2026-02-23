@@ -33,6 +33,12 @@ A piano score that animates to midi files, in the likes of guitar hero.
 
 ![](./thumbs/midi_piano_score.jpg)
 
+[Midi impact balls sound gen](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/midi_impact_balls_sound_gen.zip)
+
+Reads a midi file, generates rbd balls for each note, balls collide with a piano geo (it "plays" the music). The impacts are stored and transformed into a .wav file, as if the balls really played that song. 
+
+![](./thumbs/midi_impact_balls_sound_gen.jpg)
+
 ## DOP
 [Filament solver](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/filament_solver.hiplc)
 
