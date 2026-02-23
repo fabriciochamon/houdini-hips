@@ -21,6 +21,12 @@ Assorted audio visualizers: spectrum, waveform, audio volume / channels, frequen
 
 ![](./thumbs/chop_audio_visualizers.gif)
 
+[Single visualizer, but many controls](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/single_audio_viz_many_controls.zip)
+
+Audio viz with lots of controls.
+
+![](./thumbs/single_audio_viz_many_controls.gif)
+
 [Midi piano score](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/midi_piano_score.zip)
 
 A piano score that animates to midi files, in the likes of guitar hero.
