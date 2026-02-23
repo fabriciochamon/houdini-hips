@@ -47,6 +47,14 @@ Also, [YT video tutorial](https://www.youtube.com/watch?v=jm4mWT_WomE)
 
 ![](./thumbs/filament_solver.jpg)
 
+## COP (legacy)
+
+[Arcade/Retro games FX](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/arcade_cop.zip)
+
+Retro game visuals with pixelization, palette reduction, layered tv glitches (scanlines/vignete/crop/running bars/etc) and blinking fonts.
+
+![](./thumbs/arcade_cop.jpg)
+
 ## Misc
 [Pong game](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/pong_game.hiplc)
 
