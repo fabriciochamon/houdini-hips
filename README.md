@@ -14,6 +14,12 @@ Fake volume light using VEX, with support for omni and spherical area ligths, sh
 
 ![](./thumbs/fake_volume_lights.gif)
 
+[RBD cube bots](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/rbd_cube_bots.hiplc)
+
+Motor based robot RBDs, scattered over surface, collide with each other.
+
+![](./thumbs/rbd_cube_bots.gif)
+
 ## CHOP
 [Audio visualizers](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/chop_audio_visualizers.zip)
 
