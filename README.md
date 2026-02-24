@@ -53,6 +53,12 @@ Also, [YT video tutorial](https://www.youtube.com/watch?v=jm4mWT_WomE)
 
 ![](./thumbs/filament_solver.jpg)
 
+[FLIP fill from interior](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/flip_fill_from_interior.hiplc)
+
+Inject liquid from the interior of a vase. Needs to have some flip tweaks so the produced water actually adds volume to the main body.
+
+![](./thumbs/flip_fill_from_interior.gif)
+
 ## COP (legacy)
 
 [Arcade/Retro games FX](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/arcade_cop.zip)
