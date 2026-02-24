@@ -20,9 +20,9 @@ Motor based robot RBDs, scattered over surface, collide with each other.
 
 ![](./thumbs/rbd_cube_bots.gif)
 
-[Roll object over irregular terrain](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/roll_object_over_irregular_terrain.hiplc)
+[Roll object over irregular surface](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/roll_object_over_irregular_terrain.hiplc)
 
-Uses a solver SOP! Animate a point and make an object follow its position while wolling and also sticking to any irregular surface.
+Animate a point and make an object follow its position, while rolling and sticking to any irregular terrain. (Uses a solver SOP!)
 
 ![](./thumbs/roll_object_over_irregular_terrain.gif)
 
