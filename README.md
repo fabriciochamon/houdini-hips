@@ -57,7 +57,7 @@ Reads a midi file, generates rbd balls for each note, balls collide with a piano
 Using the filament solver in DOPs for fake fluid looking ink sims.
 Also, [YT video tutorial](https://www.youtube.com/watch?v=jm4mWT_WomE)
 
-![](./thumbs/filament_solver.jpg)
+![](./thumbs/filament_solver.gif)
 
 [FLIP fill from interior](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/flip_fill_from_interior.hiplc)
 
