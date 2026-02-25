@@ -26,6 +26,14 @@ Animate a point and make an object follow its position, while rolling and sticki
 
 ![](./thumbs/roll_object_over_irregular_terrain.gif)
 
+## COP (copernicus)
+
+[Flakes](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/cop_flakes.hiplc)
+
+COPs based flakes material.
+
+![](./thumbs/cop_flakes.jpg)
+
 ## CHOP
 [Audio visualizers](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/chop_audio_visualizers.zip)
 
