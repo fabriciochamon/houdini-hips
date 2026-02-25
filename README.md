@@ -73,6 +73,12 @@ Inject liquid from the interior of a vase. Needs to have some flip tweaks so the
 
 ![](./thumbs/flip_fill_from_interior.gif)
 
+[Bullet growing chain links](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/bullet_growing_chain_links.hiplc)
+
+Create chain links dynamically in a sop solver.
+
+![](./thumbs/bullet_growing_chain_links.gif)
+
 ## COP (legacy)
 
 [Arcade/Retro games FX](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/arcade_cop.zip)
