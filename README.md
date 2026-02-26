@@ -1,7 +1,7 @@
 # houdini-hips
 A collection of Houdini hip files, examples, tech r&amp;d's, vex, all the good stuff...
 
-![](./#sop)
+[SOP](./#sop)
 
 ## SOP
 [Custom HUD](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/custom_hud.hiplc)
