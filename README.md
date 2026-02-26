@@ -26,6 +26,12 @@ Animate a point and make an object follow its position, while rolling and sticki
 
 ![](./thumbs/roll_object_over_irregular_terrain.gif)
 
+[Infection solver](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/infection_solver.hiplc)
+
+A paintable infection solver.
+
+![](./thumbs/infection_solver.gif)
+
 ## COP (copernicus)
 
 [Flakes](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/cop_flakes.hiplc)
