@@ -4,8 +4,9 @@ A collection of Houdini hip files, examples, tech r&amp;d's, vex, all the good s
 - [SOP](#sop)
 - [COP (copernicus)](#cop-copernicus)
 - [CHOP](#chop)
+- [DOP](#dop)
 - [COP (legacy)](#cop-legacy)
-- [MISC](#misc)
+- [Miscellaneous](#misc)
 
 
 ## SOP
