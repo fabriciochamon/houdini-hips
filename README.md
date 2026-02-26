@@ -8,6 +8,12 @@ Using NDC (normalized device coordinates) to build a custom HUD with extended vi
 
 ![](./thumbs/custom_hud.jpg)
 
+[Roll object over irregular surface](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/roll_object_over_irregular_terrain.hiplc)
+
+Animate a point and make an object follow its position, while rolling and sticking to any irregular terrain. (Uses a solver SOP!)
+
+![](./thumbs/roll_object_over_irregular_terrain.gif)
+
 [Fake volume lights](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/fake_volume_lights.hiplc)
 
 Fake volume light using VEX, with support for omni and spherical area ligths, shadows, light samples (for area lights+shadows), shadow transparency, and a basic surface roughness model.
@@ -19,12 +25,6 @@ Fake volume light using VEX, with support for omni and spherical area ligths, sh
 Motor based robot RBDs, scattered over surface, collide with each other.
 
 ![](./thumbs/rbd_cube_bots.gif)
-
-[Roll object over irregular surface](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/roll_object_over_irregular_terrain.hiplc)
-
-Animate a point and make an object follow its position, while rolling and sticking to any irregular terrain. (Uses a solver SOP!)
-
-![](./thumbs/roll_object_over_irregular_terrain.gif)
 
 [Infection solver](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/infection_solver.hiplc)
 
