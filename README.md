@@ -85,6 +85,12 @@ Create chain links dynamically in a sop solver.
 
 ![](./thumbs/bullet_growing_chain_links.gif)
 
+[RBD rolling cubes](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/rbd_rolling_cubes.hiplc)
+
+Bullet sim that applies a rotational force to move objects towards goals.
+
+![](./thumbs/rbd_rolling_cubes.gif)
+
 ## COP (legacy)
 
 [Arcade/Retro games FX](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/arcade_cop.zip)
