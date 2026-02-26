@@ -32,6 +32,12 @@ A paintable infection solver.
 
 ![](./thumbs/infection_solver.gif)
 
+[Knitting pattern](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/knitting_pattern.hiplc)
+
+Knitted patterns from a UVd cloth geo.
+
+![](./thumbs/knitting_pattern.jpg)
+
 ## COP (copernicus)
 
 [Flakes](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/cop_flakes.hiplc)
