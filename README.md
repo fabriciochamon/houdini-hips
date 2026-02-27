@@ -133,6 +133,7 @@ Retro game visuals with pixelization, palette reduction, layered tv glitches (sc
 ## VEX
 
 [Random rotation on points](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/vex_rand_rot_on_points.hiplc) : Time driven animated rotations (non-simulated). Good for suspended particles, glints, etc.
+[Grass wind](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/vex_grass_wind.hiplc) : Non-simulated wind on instances, with controls for direction/strength/speed/noise frequency.
 
 ## Misc
 ### [Pong game](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/pong_game.hiplc)
