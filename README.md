@@ -59,7 +59,7 @@ COPs based flakes material.
 
 [Apex rig to solaris as USDskel (with blendshapes)](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/apex_rig_to_solaris.hiplc)
 
-A complete workflow example: kinefx skeleton > apex rig (using rig components) > blendshape animation > imported into solaris, in the most performant way possible (using the USD skeleton schema).
+A complete workflow example: kinefx skeleton > apex rig (using rig components) > blendshape animation > imported into solaris, as USDskel instead of timesampled geo.
 
 ![](./thumbs/apex_rig_to_solaris.gif)
 
