@@ -4,6 +4,7 @@ A collection of Houdini hip files, examples, tech r&amp;d's, vex, all the good s
 - [SOP](#sop)
 - [COP (copernicus)](#cop-copernicus)
 - [COP (legacy)](#cop-legacy)
+- [APEX](#apex)
 - [CHOP](#chop)
 - [DOP](#dop)
 - [Miscellaneous](#misc)
@@ -53,6 +54,14 @@ Knitted patterns from a UVd cloth geo.
 COPs based flakes material.
 
 ![](./thumbs/cop_flakes.jpg)
+
+## APEX
+
+[Apex rig to solaris as USDskel (with blendshapes)](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/apex_rig_to_solaris.hiplcc)
+
+A complete workflow example: kinefx skeleton > apex rig (using rig components) > blendshape animation > imported into solaris, in the most performant way possible (using the USD skeleton schema).
+
+![](./thumbs/apex_rig_to_solaris.gif)
 
 ## CHOP
 [Audio visualizers](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/chop_audio_visualizers.zip)
