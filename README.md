@@ -24,7 +24,7 @@ Animate a point and make an object follow its position, while rolling and sticki
 
 ![](./thumbs/roll_object_over_irregular_terrain.gif)
 
-[Fake volume lights](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/fake_volume_lights.hiplc)
+### [Fake volume lights](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/fake_volume_lights.hiplc)
 
 Fake volume light using VEX, with support for omni and spherical area ligths, shadows, light samples (for area lights+shadows), shadow transparency, and a basic surface roughness model.
 
