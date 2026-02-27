@@ -116,9 +116,9 @@ Bullet sim that applies a rotational force to move objects towards goals.
 
 [FLIP melting with custom cooling](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/flip_melting_fx_custom_cooling.hiplc)
 
-FLIP melting fx, using a custom cooling method (VEX). Custom cooling has a min temperature threshold, that when exceeded triggers a frame timer. Once the timer is reached, the cooldown effect takes place by multiplying current temperature by some cooling rate. In my tests this methid gave sims a more organic behavior and better controls over melting regions.
+Melting fx, using a custom cooling method (VEX). Custom cooling has a min temperature threshold, that when exceeded triggers a frame timer. Once the timer is reached, the cooldown effect takes place by multiplying current temperature by some cooling rate. In my tests this methid gave sims a more organic behavior and better controls over melting regions.
 
-![](./thumbs/flip_melting_fx_custom_cooling.gif)
+![](./thumbs/flip_melting_fx_with_custom_cooling.gif)
 
 ## COP (legacy)
 
