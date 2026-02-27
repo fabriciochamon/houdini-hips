@@ -131,7 +131,7 @@ Retro game visuals with pixelization, palette reduction, layered tv glitches (sc
 
 ## VEX
 
-[Random rotation on point](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/vex_rand_rot_on_points.hiplc): non-simulated. good for suspended particles, glints, etc.
+[Random rotation on points](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/vex_rand_rot_on_points.hiplc) : non-simulated. good for suspended particles, glints, etc.
 
 ## Misc
 [Pong game](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/pong_game.hiplc)
