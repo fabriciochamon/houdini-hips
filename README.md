@@ -1,5 +1,6 @@
 # houdini-hips
 A collection of Houdini hip files, examples, tech r&amp;d's, vex, all the good stuff...
+(Click title link to download hip)
 
 - [SOP](#sop)
 - [COP (copernicus)](#cop-copernicus)
