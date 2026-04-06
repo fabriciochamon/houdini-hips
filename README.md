@@ -65,6 +65,12 @@ A complete workflow example: kinefx skeleton > apex rig (using rig components) >
 
 ![](./thumbs/apex_rig_to_solaris.gif)
 
+### [Apex character to crowd sim](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/apex_crowd_setup.zip)
+
+Another complete workflow example: kinefx skeleton > apex rig (using autorig builder) > apex animation > exported as USD clip > crowd agent > crowd sim w/ terrain adaptation.
+
+![](./thumbs/apex_crowd_setup.gif)
+
 ## CHOP
 ### [Audio visualizers](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/chop_audio_visualizers.zip)
 
