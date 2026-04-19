@@ -148,7 +148,7 @@ A complete mini game with RBD based collisions, chop keyboard controls, logic fo
 
 ![](./thumbs/pong_game.gif)
 
-### [Houdini instances to Maya]()
+### [Houdini instances to Maya](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/instances_to_maya.zip)
 
 How to read and convert houdini point attributes into maya nParticles, with support for geo instancing (as alembic imports).
 
