@@ -147,3 +147,9 @@ Retro game visuals with pixelization, palette reduction, layered tv glitches (sc
 A complete mini game with RBD based collisions, chop keyboard controls, logic for item power-ups, score, multi camera angles, ball split after N hits, game intro, etc. Backgrounds made in copernicus.
 
 ![](./thumbs/pong_game.gif)
+
+### [Houdini instances to Maya]()
+
+How to read and convert houdini point attributes into maya nParticles, with support for geo instancing (as alembic imports).
+
+![](./thumbs/instances_to_maya.gif)
