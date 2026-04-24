@@ -146,7 +146,7 @@ Retro game visuals with pixelization, palette reduction, layered tv glitches (sc
 ## TOP
 ### [URL Request](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/pdg_url_request.hiplc)
 
-How to use "url request" bdie to fetch many avatars (icons, in this case) from [dicebear](https://www.dicebear.com/), trace the svg's and make nice little extruded geos.
+How to use "url request" node to fetch many avatars from [dicebear](https://www.dicebear.com/), trace the svg's and automate some nice little 3d extruded icons.
 
 ![](./thumbs/pdg_url_request.jpg)
 
