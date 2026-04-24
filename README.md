@@ -8,6 +8,7 @@ A collection of Houdini hip files, examples, tech r&amp;d's, vex, all the good s
 - [APEX](#apex)
 - [CHOP](#chop)
 - [DOP](#dop)
+- [TOP](#top)
 - [VEX](#vex)
 - [Miscellaneous](#misc)
 
@@ -141,6 +142,13 @@ Melting fx, using a custom cooling method (VEX). Custom cooling has a min temper
 Retro game visuals with pixelization, palette reduction, layered tv glitches (scanlines/vignete/crop/running bars/etc) and blinking fonts.
 
 ![](./thumbs/arcade_cop.gif)
+
+## TOP
+### [URL Request](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/pdg_url_request.hiplc)
+
+How to use "url request" bdie to fetch many avatars (icons, in this case) from [dicebear](https://www.dicebear.com/), trace the svg's and make nice little extruded geos.
+
+![](./thumbs/pdg_url_request.jpg)
 
 ## VEX
 
