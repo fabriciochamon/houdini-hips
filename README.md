@@ -96,6 +96,12 @@ Reads a midi file, generates rbd balls for each note, balls collide with a piano
 
 ![](./thumbs/midi_impact_balls_sound_gen.jpg)
 
+### [Spatial audio](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/spatial_audio.zip)
+
+How to use "microphone" and "sound source" obj nodes to produce realtime spatial audio in chops.
+
+![](./thumbs/spatial_audio.jpg)
+
 ## DOP
 ### [Filament solver](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/filament_solver.hiplc)
 
