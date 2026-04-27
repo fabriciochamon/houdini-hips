@@ -9,6 +9,7 @@ A collection of Houdini hip files, examples, tech r&amp;d's, vex, all the good s
 - [CHOP](#chop)
 - [DOP](#dop)
 - [TOP](#top)
+- [LOP](#lop) 
 - [VEX](#vex)
 - [Miscellaneous](#misc)
 
@@ -149,6 +150,13 @@ Retro game visuals with pixelization, palette reduction, layered tv glitches (sc
 How to use "url request" node to fetch many avatars from [dicebear](https://www.dicebear.com/), trace the svg's and automate some nice little 3d extruded icons.
 
 ![](./thumbs/pdg_url_request.jpg)
+
+## LOP (Solaris)
+### [Room map creator](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/roommap_creator.hiplc)
+
+A framework for generating roommaps from 3d scenes, to be applied on building windows.
+
+![](./thumbs/roommap_creator.gif)
 
 ## VEX
 
