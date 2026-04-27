@@ -151,7 +151,7 @@ How to use "url request" node to fetch many avatars from [dicebear](https://www.
 
 ![](./thumbs/pdg_url_request.jpg)
 
-## LOP (Solaris)
+## LOP
 ### [Room map creator](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/roommap_creator.hiplc)
 
 A framework for generating roommaps from 3d scenes, to be applied on building windows.
