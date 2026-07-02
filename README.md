@@ -136,6 +136,12 @@ Melting fx, using a custom cooling method (VEX). Custom cooling has a min temper
 
 ![](./thumbs/flip_melting_fx_with_custom_cooling.gif)
 
+### [FLIP-Bullet two way interaction](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/bullet_rbd_flip_interaction.hiplc)
+
+A fake buoyancy force to make bullet RBD respond to FLIP sims.
+
+![](./thumbs/bullet_rbd_flip_interaction.gif)
+
 ## COP (legacy)
 
 ### [Arcade/Retro games FX](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/arcade_cop.zip)
