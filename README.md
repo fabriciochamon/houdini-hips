@@ -142,6 +142,12 @@ A fake buoyancy force to make bullet RBD respond to FLIP sims.
 
 ![](./thumbs/bullet_rbd_flip_interaction.gif)
 
+### [FLIP watermill feedback scale to bullet](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/watermill.hiplc)
+
+FLIP feedback scale driving bullet RBDs with a hinge constraint.
+
+![](./thumbs/watermill.gif)
+
 ## COP (legacy)
 
 ### [Arcade/Retro games FX](https://github.com/fabriciochamon/houdini-hips/raw/refs/heads/main/hips/arcade_cop.zip)
